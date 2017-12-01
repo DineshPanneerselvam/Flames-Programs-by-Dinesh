@@ -1,0 +1,4 @@
+dinesh	nayanthara		-AFFECTION
+dinesh	keerthisuresh		-MARRIAGE
+dinesh	dd		-MARRIAGE
+dinesh	kuruviamma		-FRIEND
